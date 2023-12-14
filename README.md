@@ -1,8 +1,5 @@
-# ICAMSEEU-0429
+# ICAMSEEU
 This tool is for hacking vulnerable cctv or Wifi router
-
-![image](https://github.com/jason1343/ICAMSEEU-0429/assets/96876149/ca51c69f-207c-4eee-bcbd-5b2d2be4fd2b)
-
 
 ---
 # Usage
